@@ -1,3 +1,3 @@
 # Carousel TDD
 
-[![Build Status](https://travis-ci.com/ezrafree/carousel-tdd.svg?branch=master)](https://travis-ci.com/ezrafree/carousel-tdd)
+[![Build Status](https://travis-ci.com/ezrafree/tdd-carousel.svg?branch=master)](https://travis-ci.com/ezrafree/tdd-carousel)
