@@ -1,0 +1,23 @@
+# Node.js
+node_modules/
+
+# VS Code
+.vscode/
+
+# Linux OS
+.swp.*
+*.swp.*
+*.swp
+
+# Mac OS
+.DS_Store
+.DS_Store?
+.AppleDouble
+.LSOverride
+*~
+._*
+.Spotlight-V100
+.Trashes
+__MACOSX
+Thumbs.db
+ehthumbs.db
